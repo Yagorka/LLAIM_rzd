@@ -1,11 +1,13 @@
 import json
+import os
 
 from yargy import or_, rule
 from yargy.interpretation import const, fact
 from yargy.pipelines import caseless_pipeline, morph_pipeline
 from yargy.predicates import caseless, eq, normalized, type
 
-with open(r".\NumExtractor\static_data\nums.json", 'r', encoding="utf-8") as f:
+
+with open(os.path.join(".", "NumExtractor", "static_data", "nums.json"), 'r', encoding="utf-8") as f:
     NUMS_RAW = json.load(f)
 
 Number = fact('Number', ['int', 'multiplier'])
