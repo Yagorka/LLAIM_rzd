@@ -25,7 +25,7 @@ class RZDModel():
 
     def __init__(
         self,
-        model_checkpoint: str: r"weights\\",
+        model_checkpoint: str: "weights",
         frame_len: int = 1_600
     ) -> None:
         """
