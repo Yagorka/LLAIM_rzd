@@ -1,8 +1,9 @@
 # Цифровой прорыв 2024 СЗФО
-# Интеллектуальный пульт составителя
-<a name="readme-top"></a>  
+# Кейс: Интеллектуальный пульт составителя
+<a name="readme-top"></a>
+<p align="center">  
 <img width="30%" src="./images/photo_2024-10-06_07-08-13.jpg" alt="banner">
-<div align="center">
+</p>
   <p align="center">
     <!--<h1 align="center">LLAIM</h1>-->
   </p>
