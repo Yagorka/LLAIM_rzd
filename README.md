@@ -84,6 +84,8 @@
 
 ## Development
 
+Версия python 3.9.19
+
 0. Install requirements
 
 ```
