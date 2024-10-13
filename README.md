@@ -57,6 +57,11 @@
   <p align="center">
 
 
+<p align="center">
+ <img width="200px" src="./images/photo_2024-10-06_07-08-13.jpg" alt="qr"/>
+</p> 
+
+
 * Шумоподавление 
 * ASR Wave2vec
 * Поиск команды из заданного набора в тексте
