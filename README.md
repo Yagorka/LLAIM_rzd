@@ -103,7 +103,7 @@ CPU let - метрика оценки скорости запуска решен
 
 Версия python 3.9.19
 
-0. Install requirements
+Install requirements
 
 ```
 pip install -r requirements.txt
