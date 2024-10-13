@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+from pathlib import Path
 import argparse
 import json
 
@@ -45,6 +46,9 @@ if __name__ == "__main__":
     for audio_path in os.listdir(args.src):
         result = predictor(os.path.join(args.src, audio_path))
         results.append(result)
+
+    if not Path(args.dst).exists():
+        os.mkdir(args.dst)
 
     with open(
         os.path.join(args.dst, "submission.json"), "w", encoding="utf-8"
