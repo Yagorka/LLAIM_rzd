@@ -103,7 +103,7 @@ CPU let - метрика оценки скорости запуска решен
 0. склонировать репозиторий
 
 ```
-git clone https://github.com/Yagorka/LLAIM_rzd.git
+git clone https://github.com/Yagorka/LLAIM_rzd
 ```
 
 и перейти в него
