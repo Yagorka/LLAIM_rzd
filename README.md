@@ -52,15 +52,21 @@
 
 ## <h3 align="start"><a id="title2">Описание решения 📝</a></h3>
 
+![Альтернативный текст](https://github.com/Yagorka/LLAIM_rzd/blob/main/images/photo_2024-10-13_09-19-30.jpg)
+
+<a name="readme-top"></a>
+<p align="center">  
 <img width="30%" src="./images/photo_2024-10-06_07-08-13.jpg" alt="banner">
 </p>
   <p align="center">
+    <!--<h1 align="center">LLAIM</h1>-->
+  </p>
+  <p align="center">
+    <p></p>
+    <!-- <p><strong>Интеллектуальный пульт составителя.</strong></p> -->
 
-
-<p align="center">
- <img width="200px" src="./images/photo_2024-10-06_07-08-13.jpg" alt="qr"/>
-</p> 
-
+  </p>
+</div>
 
 * Шумоподавление 
 * ASR Wave2vec
