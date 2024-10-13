@@ -1,3 +1,4 @@
+import os
 from typing import Dict, Tuple, Union
 
 import librosa
@@ -199,7 +200,7 @@ class RZDModel():
             except:
                 pass
         submit = {
-            "audio_file_path": file.split("/")[-1],
+            "audio_file_path": os.path.split(file)[-1],
             "text": sent,
             "label": result[-1],
             "attribute": attr,
