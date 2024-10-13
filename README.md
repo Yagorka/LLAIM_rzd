@@ -23,7 +23,7 @@
 
 ### Разработан в рамках [ЦП](https://hacks-ai.ru/events/1077380) командой "LLAIM".
 
-### Live версия доступна [тут](https://t.me/rosatom_support_bot)
+### Live версия доступна [тут](https://ee04b446f7e9c9a575.gradio.live)
 
 <<<<<<< HEAD
 ## <h3 align="start"><a id="title1">Проблематика задачи</a></h3>  
