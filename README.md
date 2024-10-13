@@ -108,10 +108,7 @@ Windows:
 ```
 myenv\Scripts\activate
 ```
-```
 macOS и Linux:
-```
-
 ```
 source myenv/bin/activate
 ```
